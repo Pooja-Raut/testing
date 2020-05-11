@@ -1,3 +1,3 @@
 print("this file was created on rstudio")
 print("now it lives on github")
-print(check2)
+print("check2")
